@@ -1,0 +1,9 @@
+pandas 
+numpy
+matplotlib
+japanize_matplotlib
+seaborn
+scikit-learn
+streamlit
+requests
+python-dotenv
